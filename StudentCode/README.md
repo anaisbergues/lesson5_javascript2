@@ -4,19 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+2/26/2017
 
 ### Student Name:  
-(First and Last Name)
+Anais Bergues
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment the purpose was to understand the use of the 
+getElementById( ) method, if/else statements, and onclick in order to 
+be able to create a tax bracketcalculator. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://anaisbergues.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How an if/else statement functions. 
+2. Purpose of the getElementById function. 
+3. The use of the onclick with HTML. 
